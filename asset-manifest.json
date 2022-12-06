@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lipitha.github.io/csb-j4qs9e/static/css/main.0e46c569.chunk.css",
+    "main.js": "https://lipitha.github.io/csb-j4qs9e/static/js/main.00d9ad66.chunk.js",
+    "main.js.map": "https://lipitha.github.io/csb-j4qs9e/static/js/main.00d9ad66.chunk.js.map",
+    "runtime-main.js": "https://lipitha.github.io/csb-j4qs9e/static/js/runtime-main.0828e7a7.js",
+    "runtime-main.js.map": "https://lipitha.github.io/csb-j4qs9e/static/js/runtime-main.0828e7a7.js.map",
+    "static/js/2.db5e2957.chunk.js": "https://lipitha.github.io/csb-j4qs9e/static/js/2.db5e2957.chunk.js",
+    "static/js/2.db5e2957.chunk.js.map": "https://lipitha.github.io/csb-j4qs9e/static/js/2.db5e2957.chunk.js.map",
+    "index.html": "https://lipitha.github.io/csb-j4qs9e/index.html",
+    "static/css/main.0e46c569.chunk.css.map": "https://lipitha.github.io/csb-j4qs9e/static/css/main.0e46c569.chunk.css.map",
+    "static/js/2.db5e2957.chunk.js.LICENSE.txt": "https://lipitha.github.io/csb-j4qs9e/static/js/2.db5e2957.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0828e7a7.js",
+    "static/js/2.db5e2957.chunk.js",
+    "static/css/main.0e46c569.chunk.css",
+    "static/js/main.00d9ad66.chunk.js"
+  ]
+}
